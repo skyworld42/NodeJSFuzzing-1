@@ -16,7 +16,7 @@ The list of fuzzers involved:
 - [Arachni v1.5.1 & WebUI v0.5.12](https://github.com/Arachni/arachni/tree/v1.5.1) - [license](https://github.com/Arachni/arachni/blob/v1.5.1/LICENSE.md)
 - [w3af](https://github.com/andresriancho/w3af) - GPLv2.0
 
-## Presequisites
+## Prerequisites
 The docker images are built and tested with:
 - Docker version 18.09.1-ol, build b2a1f2a
 - docker-compose version 1.27.4, build 40524192
